@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-qI8DL37dU)
-- Live Site URL: [Add live site URL here](https://testimonials-grid-swart.vercel.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-qI8DL37dU)
+- [Live Site URL](https://testimonials-grid-swart.vercel.app/)
 
 ## My process
 
